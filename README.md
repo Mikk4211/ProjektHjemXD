@@ -40,7 +40,7 @@ En form for lyddetektor til at se om der bliver klappet, evt en counter til hvor
 
 # 4. _Kaffemaskine m/ wifi:_
 
- __KaffemaskineApp.java __
+          ~KaffemaskineApp.java~
 
 KaffemaskineTænd, KaffemaskineSluk, KaffemaskineVolumen
 
