@@ -39,4 +39,5 @@ En form for wifi-modul, som skal gøre det modulet at starte kaffemaskinen vha. 
 
 _Ass-pounder 8000:_
 
+evt app til at bestille mad til dig in the act?? xdddxdd
 TBD, WIP
