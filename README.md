@@ -23,4 +23,20 @@ _Temperaturcensor:_
 
 Censor.java
 
-Boolean (Er vinduet åbent - censor til 
+Boolean (Er vinduet åbent - censor til dette også)
+
+_Klappecensor:_
+
+Censor.java
+
+En form for lyddetektor til at se om der bliver klappet, evt en counter til hvor mange klap der bliver klappet. 
+
+_Kaffemaskine m/ wifi:_
+
+KaffemaskineApp.java
+
+En form for wifi-modul, som skal gøre det modulet at starte kaffemaskinen vha. en app på din telefon. 
+
+_Ass-pounder 8000:_
+
+TBD, WIP
