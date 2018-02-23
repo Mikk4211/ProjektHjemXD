@@ -14,9 +14,13 @@ Støvsugerrobotter - WIP
 # _Klasser:_
 
 _Støvsugerrobotter:_
+
 Censor.java
+
 Boolean (Er mennesket tilstede)
 
 _Temperaturcensor:_
+
 Censor.java
+
 Boolean (Er vinduet åbent - censor til 
