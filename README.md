@@ -50,3 +50,11 @@ En form for wifi-modul, som skal gøre det modulet at starte kaffemaskinen vha. 
 
 evt app til at bestille mad til dig in the act?? xdddxdd
 TBD, WIP
+
+## Abstractions / Re-usability: 
+
+Sensor.java kan i hvert fald genbruges gennem flere forskellige klasser, da det ikke er låst fast til sensoren at have en funktion. 
+Vi kan f.eks. have én sensor til at måle både temperatur, og se om lyset er tændt, i stedet for at have flere forskellige sensore. Støvsugerrobboterne skal nok have en seperat 'sensor', da denne funktion sandsynligvis skulle være bundet til en form for GPS, som arbejder sammen med din telefon. 
+
+Resten af funktionerne skal bruges hver for sig, da disse låses fast til et enkelt objekt (StøvsugerTænd, LysTænd) - men disse ville kunne laves i en seperat klasse med én metode, som tænder. 
+
