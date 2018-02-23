@@ -1,4 +1,5 @@
 ## ProjektHjemXD
+
 # _Mathias:_ 
 
 1. Ass-Pounder 8000 - turn on the ass-pounder 8000 ;]
@@ -11,33 +12,41 @@
 
 5. Støvsugerrobotter - WIP
 
-# _Klasser:_
+## _Klasser:_
 
-1. _Støvsugerrobotter:_
+# 1. _Støvsugerrobotter:_
+
+StøvsugerTænd, StøvsugerSluk 
 
 Sensor.java
 
 Boolean (Er mennesket tilstede)
 
-2. _Temperaturcensor:_
+# 2. _Temperaturcensor:_
+
+TemperaturOp, TemperaturNed, TemperaturMåler
 
 Sensor.java
 
 Boolean (Er vinduet åbent - censor til dette også)
 
-3. _Klappecensor:_
+# 3. _Klappecensor:_
 
 Sensor.java
 
+LysTænd, LysSluk
+
 En form for lyddetektor til at se om der bliver klappet, evt en counter til hvor mange klap der bliver klappet. 
 
-4. _Kaffemaskine m/ wifi:_
+# 4. _Kaffemaskine m/ wifi:_
 
-KaffemaskineApp.java
+ __KaffemaskineApp.java __
+
+KaffemaskineTænd, KaffemaskineSluk, KaffemaskineVolumen
 
 En form for wifi-modul, som skal gøre det modulet at starte kaffemaskinen vha. en app på din telefon. 
 
-5. _Ass-pounder 8000:_
+# 5. _Ass-pounder 8000:_
 
 evt app til at bestille mad til dig in the act?? xdddxdd
 TBD, WIP
