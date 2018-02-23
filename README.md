@@ -5,9 +5,9 @@ Ass-Pounder 8000 - turn on the ass-pounder 8000 ;]
 
 Kaffe maskine - Wifi-kontrolleret kaffemaskine, der tænder for din kaffemaskine når du trykker i en app
 
-Temperaturcensor - Tjekker temperaturen i rummet, og vil tjekke om temperaturen er tilpas, skal skrues op eller ned. 
+Temperatursensor - Tjekker temperaturen i rummet, og vil tjekke om temperaturen er tilpas, skal skrues op eller ned. 
 
-Klappecensor - Tænder eller slukker for lyset, når der bliver klappet i huset. 
+Klappesensor - Tænder eller slukker for lyset, når der bliver klappet i huset. 
 
 Støvsugerrobotter - WIP
 
@@ -15,19 +15,19 @@ Støvsugerrobotter - WIP
 
 _Støvsugerrobotter:_
 
-Censor.java
+Sensor.java
 
 Boolean (Er mennesket tilstede)
 
 _Temperaturcensor:_
 
-Censor.java
+Sensor.java
 
 Boolean (Er vinduet åbent - censor til dette også)
 
 _Klappecensor:_
 
-Censor.java
+Sensor.java
 
 En form for lyddetektor til at se om der bliver klappet, evt en counter til hvor mange klap der bliver klappet. 
 
